@@ -1,0 +1,11 @@
+{
+  "name": "58-curso-de-api-rest-con-javascript-ejemplos-con-apis-reales",
+  "version": "1.0.0",
+  "description": "Curso Practico de consumo de API REST con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@omarhernandezrey",
+  "license": "MIT"
+}
