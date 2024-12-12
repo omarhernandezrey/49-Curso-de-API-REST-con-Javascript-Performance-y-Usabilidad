@@ -65,3 +65,4 @@ Este proyecto está licenciado bajo la licencia [MIT License].
 Agradecimientos
 
 Agradecemos a The Movie Database por proporcionar la API que hace posible esta aplicación.   ![localhost_5500_](https://github.com/user-attachments/assets/54f06be6-a7c9-4ac3-a5a2-19a316ac5426)
+# 49-Curso-de-API-REST-con-Javascript-Performance-y-Usabilidad
